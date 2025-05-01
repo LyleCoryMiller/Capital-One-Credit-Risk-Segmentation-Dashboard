@@ -82,4 +82,4 @@ This project simulates how Capital One might evaluate the likelihood of customer
 ## Final Thoughts 📝
 This project demonstrates essential skills for **CRM Specialists**, **Business Analysts**, and **Risk Analysts** by transforming credit repayment data into actionable insights. It supports predictive decisions through structured SQL queries and a professional Power BI dashboard.
 
->_Note: Also listed as “Capital One Credit Risk & Segmentation Dashboard” on my resume and LinkedIn profile._
+>This project is part of a business-focused analytics portfolio designed to support CRM, operations, and BI roles. For more projects, visit my main GitHub portfolio.
