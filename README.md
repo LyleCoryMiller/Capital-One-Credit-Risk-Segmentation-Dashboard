@@ -1,5 +1,7 @@
 # Capital One Credit Risk & CRM Segmentation Dashboard | SQL + Power BI  
 
+*Simulated Capital One lending data used to segment high-risk customers and visualize default trends using SQL and Power BI.*
+
 ![Dashboard Screenshot](./CapitalOne_CreditRisk_Dashboard.png)
 
 _Note: Also listed as “Capital One Credit Risk & CRM Segmentation Dashboard” on my resume and LinkedIn profile._
